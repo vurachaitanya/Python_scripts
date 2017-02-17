@@ -7,7 +7,7 @@ if sister > brother:
 else :
     print "brother is older"
 print "+++++++++++++++++++++++++++++"
-#!/usr/bin/python
+
 darpad=3
 nidhi=5
 if darpad > nidhi:
